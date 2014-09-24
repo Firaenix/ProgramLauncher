@@ -4,6 +4,7 @@ ProgramLauncher
 A Windows program that launches multiple others in succession
 
 ================TYPICAL USE====================
+
 1. Drag ProgramLauncher.exe to the directory of the application you want to replace. (Eg. MPC-HC.exe)
 2. Rename the program you want to replace to "filename_orig.exe" (without quotes). (Eg. MPC-HC_orig.exe)
 3. Start ProgramLauncher while holding CTRL (or just double click if there is no ProgLaunch_Config in the same directory)
